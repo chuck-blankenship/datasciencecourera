@@ -1,2 +1,2 @@
 # datasciencecourera
-# course work
+# This repo is for Coursera course work.
